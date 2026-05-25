@@ -15,6 +15,11 @@ Welcome to my GitHub profile!
 ## 📝 最新博客文章
 
 <!-- BLOG-POST-LIST:START -->
+- [在EVE中使用快递服务：Hallogistics](https://www.imcry.vip/post/2026-5-25-442/)
+- [记录一次升级Go语言踩坑](https://www.imcry.vip/post/2026-5-23-18/)
+- [在VsCode中使用PicGo插件](https://www.imcry.vip/post/2026-5-22-13/)
+- [才知道Cravatar是另一个头像站](https://www.imcry.vip/post/2026-5-21-15/)
+- [ArcGis添加天地图服务](https://www.imcry.vip/post/2026-5-20-23/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
