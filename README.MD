@@ -20,6 +20,11 @@ Welcome to my GitHub profile!
 - [在VsCode中使用PicGo插件](https://www.imcry.vip/post/2026-5-22-13/)
 - [才知道Cravatar是另一个头像站](https://www.imcry.vip/post/2026-5-21-15/)
 - [ArcGis添加天地图服务](https://www.imcry.vip/post/2026-5-20-23/)
+- [利用GitHub作为图床并中转加速](https://www.imcry.vip/post/2026-5-18-14/)
+- [本站迁移至Hugo](https://www.imcry.vip/post/2026-5-15-12/)
+- [规划佬狂喜：一键下载国内常用地理数据](https://www.imcry.vip/post/acquire-resources-from-geofabrik/)
+- [解决handsome主题无法高亮代码](https://www.imcry.vip/post/334/)
+- [Python脚本将GeoJSON转成SHP](https://www.imcry.vip/post/2026-05-06-333/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
