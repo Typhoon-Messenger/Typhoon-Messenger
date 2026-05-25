@@ -11,10 +11,11 @@ Welcome to my GitHub profile!
   </a>
 </p>
 
-## 📈 GitHub 统计
 
 ## 📝 最新博客文章
 
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 ---
 *你可以通过 [我的博客](https://www.imcry.vip) 了解更多关于我的信息！*
