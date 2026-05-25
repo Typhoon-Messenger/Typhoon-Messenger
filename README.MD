@@ -28,4 +28,4 @@ Welcome to my GitHub profile!
 <!-- BLOG-POST-LIST:END -->
 
 ---
-*你可以通过 [我的博客](https://www.imcry.vip) 了解更多关于我的信息！*
+*你可以通过 [初然忆](https://www.imcry.vip) 了解更多关于我的信息！*
