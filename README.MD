@@ -11,6 +11,7 @@ Welcome to my GitHub profile!
   </a>
 </p>
 
+## 📈 GitHub 统计
 
 ## 📝 最新博客文章
 
