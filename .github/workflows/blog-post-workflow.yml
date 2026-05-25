@@ -1,7 +1,9 @@
 name: Latest blog post workflow
+
 on:
   schedule:
-    - cron: '0 */4 * * *' # 改为每 4 小时运行一次 (UTC时间)
+    
+    - cron: '0 */4 * * *'
   workflow_dispatch: 
 
 jobs:
@@ -9,10 +11,13 @@ jobs:
     name: Update this repo's README with latest blog posts
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
+      - name: Checkout repository
         uses: actions/checkout@v4
-      - name: Pull in posts
+        
+      - name: Pull in latest blog posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://www.imcry.vip/index.xml"
+          # 主页最多显示的文章数量，可以随意调整
           max_post_count: 5
+          user_agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36"
