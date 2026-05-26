@@ -1,7 +1,6 @@
-# Hi ! 👋
+# Hi everyone ! 👋
 
-Welcome to my GitHub profile!       
-我是一名充满热情的开发者，目前正在维护我的 Hugo 博客并探索更多有趣的技术。
+初心如初见，然忆似流年
 
 ## 🛠️ 我的技术栈
 
@@ -28,4 +27,4 @@ Welcome to my GitHub profile!
 <!-- BLOG-POST-LIST:END -->
 
 ---
-*你可以通过 [初然忆](https://www.imcry.vip) 了解更多关于我的信息！*
+*您可以通过 [初然忆](https://www.imcry.vip) 了解更多关于我的信息！*
