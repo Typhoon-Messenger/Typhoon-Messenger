@@ -14,6 +14,7 @@
 ## 📝 最新博客文章
 
 <!-- BLOG-POST-LIST:START -->
+- [抖音骑行，生命要停](https://www.imcry.vip/post/2026-5-27-642/)
 - [从PicGo切换到PicList](https://www.imcry.vip/post/2026-5-26-956/)
 - [在EVE中使用快递服务：Hallogistics](https://www.imcry.vip/post/2026-5-25-442/)
 - [记录一次升级Go语言踩坑](https://www.imcry.vip/post/2026-5-23-18/)
@@ -23,7 +24,6 @@
 - [利用GitHub作为图床并中转加速](https://www.imcry.vip/post/2026-5-18-14/)
 - [本站迁移至Hugo](https://www.imcry.vip/post/2026-5-15-12/)
 - [规划佬狂喜：一键下载国内常用地理数据](https://www.imcry.vip/post/acquire-resources-from-geofabrik/)
-- [解决handsome主题无法高亮代码](https://www.imcry.vip/post/334/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
