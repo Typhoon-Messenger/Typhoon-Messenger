@@ -14,6 +14,7 @@
 ## 📝 最新博客文章
 
 <!-- BLOG-POST-LIST:START -->
+- [记一次EdgeOne-Pages跳过安装依赖](https://www.imcry.vip/post/2026-5-30-2042/)
 - [浅谈EVE欧服的加速器设置](https://www.imcry.vip/post/2026-5-29-1905/)
 - [我的朋友，他没忘记我](https://www.imcry.vip/post/2026-5-28-457/)
 - [抖音骑行，生命要停](https://www.imcry.vip/post/2026-5-27-642/)
@@ -23,7 +24,6 @@
 - [在VsCode中使用PicGo插件](https://www.imcry.vip/post/2026-5-22-13/)
 - [才知道Cravatar是另一个头像站](https://www.imcry.vip/post/2026-5-21-15/)
 - [ArcGis添加天地图服务](https://www.imcry.vip/post/2026-5-20-23/)
-- [利用GitHub作为图床并中转加速](https://www.imcry.vip/post/2026-5-18-14/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
