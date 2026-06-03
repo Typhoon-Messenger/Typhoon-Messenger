@@ -14,6 +14,7 @@
 ## 📝 最新博客文章
 
 <!-- BLOG-POST-LIST:START -->
+- [芜湖！收到好站网的赠品了](https://www.imcry.vip/post/2026-6-3-2126/)
 - [鼠疫2：第一次连续开出三个红](https://www.imcry.vip/post/2026-6-3-301/)
 - [记一次HuGo无法部署到EdgeOne-Pages](https://www.imcry.vip/post/2026-6-2-728/)
 - [七岁的我，是什么样的？](https://www.imcry.vip/post/2026-6-1-320/)
@@ -23,7 +24,6 @@
 - [抖音骑行，生命要停](https://www.imcry.vip/post/2026-5-27-642/)
 - [从PicGo切换到PicList](https://www.imcry.vip/post/2026-5-26-956/)
 - [在EVE中使用快递服务：Hallogistics](https://www.imcry.vip/post/2026-5-25-442/)
-- [记录一次升级Go语言踩坑](https://www.imcry.vip/post/2026-5-23-18/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
