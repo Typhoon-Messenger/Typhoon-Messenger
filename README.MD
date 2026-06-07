@@ -14,6 +14,7 @@
 ## 📝 最新博客文章
 
 <!-- BLOG-POST-LIST:START -->
+- [评论系统切换到Twikoo](https://www.imcry.vip/post/2026-6-7-1409/)
 - [夜宵：懒人泡面](https://www.imcry.vip/post/2026-6-5-229/)
 - [芜湖！收到好站网的赠品了](https://www.imcry.vip/post/2026-6-3-2126/)
 - [鼠疫2：第一次连续开出三个红](https://www.imcry.vip/post/2026-6-3-301/)
@@ -23,7 +24,6 @@
 - [浅谈EVE欧服的加速器设置](https://www.imcry.vip/post/2026-5-29-1905/)
 - [我的朋友，他没忘记我](https://www.imcry.vip/post/2026-5-28-457/)
 - [抖音骑行，生命要停](https://www.imcry.vip/post/2026-5-27-642/)
-- [从PicGo切换到PicList](https://www.imcry.vip/post/2026-5-26-956/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
