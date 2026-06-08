@@ -14,6 +14,7 @@
 ## 📝 最新博客文章
 
 <!-- BLOG-POST-LIST:START -->
+- [阿里云DNS解析的免费套餐要限速？快跑！](https://www.imcry.vip/post/2026-6-8-400/)
 - [评论系统切换到Twikoo](https://www.imcry.vip/post/2026-6-7-1409/)
 - [夜宵：懒人泡面](https://www.imcry.vip/post/2026-6-5-229/)
 - [芜湖！收到好站网的赠品了](https://www.imcry.vip/post/2026-6-3-2126/)
@@ -23,7 +24,6 @@
 - [记一次EdgeOne-Pages跳过安装依赖](https://www.imcry.vip/post/2026-5-30-2042/)
 - [浅谈EVE欧服的加速器设置](https://www.imcry.vip/post/2026-5-29-1905/)
 - [我的朋友，他没忘记我](https://www.imcry.vip/post/2026-5-28-457/)
-- [抖音骑行，生命要停](https://www.imcry.vip/post/2026-5-27-642/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
