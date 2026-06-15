@@ -14,6 +14,7 @@
 ## 📝 最新博客文章
 
 <!-- BLOG-POST-LIST:START -->
+- [澄迈到海口的拼车小记](https://www.imcry.vip/post/2026-6-15-1407/)
 - [解决阿里云邮件推送被微软屏蔽的问题](https://www.imcry.vip/post/2026-6-11-1133/)
 - [满足，收到了来自BlogsClub的新手礼包](https://www.imcry.vip/post/2026-6-9-1231/)
 - [阿里云DNS解析的免费套餐要限速？快跑！](https://www.imcry.vip/post/2026-6-8-400/)
@@ -23,7 +24,6 @@
 - [鼠疫2：第一次连续开出三个红](https://www.imcry.vip/post/2026-6-3-301/)
 - [记一次HuGo无法部署到EdgeOne-Pages](https://www.imcry.vip/post/2026-6-2-728/)
 - [七岁的我，是什么样的？](https://www.imcry.vip/post/2026-6-1-320/)
-- [记一次EdgeOne-Pages跳过安装依赖](https://www.imcry.vip/post/2026-5-30-2042/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
