@@ -14,6 +14,7 @@
 ## 📝 最新博客文章
 
 <!-- BLOG-POST-LIST:START -->
+- [上火的我和爬行的大蜗牛](https://www.imcry.vip/post/2026-6-20-2123/)
 - [端午前夕，海甸之境](https://www.imcry.vip/post/2026-6-19-019/)
 - [澄迈到海口的拼车小记](https://www.imcry.vip/post/2026-6-15-1407/)
 - [解决阿里云邮件推送被微软屏蔽的问题](https://www.imcry.vip/post/2026-6-11-1133/)
@@ -23,7 +24,6 @@
 - [夜宵：懒人泡面](https://www.imcry.vip/post/2026-6-5-229/)
 - [芜湖！收到好站网的赠品了](https://www.imcry.vip/post/2026-6-3-2126/)
 - [鼠疫2：第一次连续开出三个红](https://www.imcry.vip/post/2026-6-3-301/)
-- [记一次HuGo无法部署到EdgeOne-Pages](https://www.imcry.vip/post/2026-6-2-728/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
