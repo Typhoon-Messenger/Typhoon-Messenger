@@ -14,6 +14,7 @@
 ## 📝 最新博客文章
 
 <!-- BLOG-POST-LIST:START -->
+- [写在“美莎克”之前](https://www.imcry.vip/post/2026-7-3-1627/)
 - [浅尝：华莱士的“双层厚霸堡”](https://www.imcry.vip/post/2026-6-29-300/)
 - [3块的CoCo美式咖啡](https://www.imcry.vip/post/2026-6-26-1845/)
 - [R0对战平台后门被石锤，远控用户电脑是其手段之一](https://www.imcry.vip/post/2026-6-25-016/)
@@ -23,7 +24,6 @@
 - [端午前夕，海甸之境](https://www.imcry.vip/post/2026-6-19-019/)
 - [澄迈到海口的拼车小记](https://www.imcry.vip/post/2026-6-15-1407/)
 - [解决阿里云邮件推送被微软屏蔽的问题](https://www.imcry.vip/post/2026-6-11-1133/)
-- [满足，收到了来自BlogsClub的新手礼包](https://www.imcry.vip/post/2026-6-9-1231/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
