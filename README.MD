@@ -14,6 +14,7 @@
 ## 📝 最新博客文章
 
 <!-- BLOG-POST-LIST:START -->
+- [晴天，在离开海口时出现](https://www.imcry.vip/post/2026-7-24-1739/)
 - [出发，临高见](https://www.imcry.vip/post/2026-7-19-2149/)
 - [外婆的近况](https://www.imcry.vip/post/2026-7-10-1859/)
 - [写在“美莎克”之前](https://www.imcry.vip/post/2026-7-3-1627/)
@@ -23,7 +24,6 @@
 - [晚上八点，突袭麦当劳](https://www.imcry.vip/post/2026-6-22-2143/)
 - [“简笔记”的作者，一位行为艺术家](https://www.imcry.vip/post/2026-6-21-1139/)
 - [上火的我和爬行的大蜗牛](https://www.imcry.vip/post/2026-6-20-2123/)
-- [端午前夕，海甸之境](https://www.imcry.vip/post/2026-6-19-019/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
