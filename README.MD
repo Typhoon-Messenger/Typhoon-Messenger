@@ -14,6 +14,7 @@
 ## 📝 最新博客文章
 
 <!-- BLOG-POST-LIST:START -->
+- [用EO-Pages实现域名@记录跳转](https://www.imcry.vip/post/2026-7-27-2138/)
 - [晴天，在离开海口时出现](https://www.imcry.vip/post/2026-7-24-1739/)
 - [出发，临高见](https://www.imcry.vip/post/2026-7-19-2149/)
 - [外婆的近况](https://www.imcry.vip/post/2026-7-10-1859/)
@@ -23,7 +24,6 @@
 - [R0对战平台后门被石锤，远控用户电脑是其手段之一](https://www.imcry.vip/post/2026-6-25-016/)
 - [晚上八点，突袭麦当劳](https://www.imcry.vip/post/2026-6-22-2143/)
 - [“简笔记”的作者，一位行为艺术家](https://www.imcry.vip/post/2026-6-21-1139/)
-- [上火的我和爬行的大蜗牛](https://www.imcry.vip/post/2026-6-20-2123/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
