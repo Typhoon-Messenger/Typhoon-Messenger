@@ -14,6 +14,7 @@
 ## 📝 最新博客文章
 
 <!-- BLOG-POST-LIST:START -->
+- [Apifox流氓式的更新](https://www.imcry.vip/post/2026-8-3-1458/)
 - [大叔的讨年庚和表妹的升学宴](https://www.imcry.vip/post/2026-8-2-1452/)
 - [用EO-Pages实现域名@记录跳转](https://www.imcry.vip/post/2026-7-27-2138/)
 - [晴天，在离开海口时出现](https://www.imcry.vip/post/2026-7-24-1739/)
@@ -23,7 +24,6 @@
 - [浅尝：华莱士的“双层厚霸堡”](https://www.imcry.vip/post/2026-6-29-300/)
 - [3块的CoCo美式咖啡](https://www.imcry.vip/post/2026-6-26-1845/)
 - [R0对战平台后门被石锤，远控用户电脑是其手段之一](https://www.imcry.vip/post/2026-6-25-016/)
-- [晚上八点，突袭麦当劳](https://www.imcry.vip/post/2026-6-22-2143/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
