@@ -14,6 +14,7 @@
 ## 📝 最新博客文章
 
 <!-- BLOG-POST-LIST:START -->
+- [回忆：天河机场坐10块的黑车](https://www.imcry.vip/post/2026-8-6-1155/)
 - [与认识六年的黄哥聚餐](https://www.imcry.vip/post/2026-8-5-1333/)
 - [Apifox流氓式的更新](https://www.imcry.vip/post/2026-8-3-1458/)
 - [大叔的讨年庚和表妹的升学宴](https://www.imcry.vip/post/2026-8-2-1452/)
@@ -23,7 +24,6 @@
 - [外婆的近况](https://www.imcry.vip/post/2026-7-10-1859/)
 - [写在“美莎克”之前](https://www.imcry.vip/post/2026-7-3-1627/)
 - [浅尝：华莱士的“双层厚霸堡”](https://www.imcry.vip/post/2026-6-29-300/)
-- [3块的CoCo美式咖啡](https://www.imcry.vip/post/2026-6-26-1845/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
