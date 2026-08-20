@@ -14,6 +14,7 @@
 ## 📝 最新博客文章
 
 <!-- BLOG-POST-LIST:START -->
+- [Twikoo从EdgeOne获取真实IP](https://www.imcry.vip/post/2026-8-20-635/)
 - [与“礼让”我的司机深情对视](https://www.imcry.vip/post/2026-8-13-2120/)
 - [回忆：天河机场坐10块的黑车](https://www.imcry.vip/post/2026-8-6-1155/)
 - [与认识六年的黄哥聚餐](https://www.imcry.vip/post/2026-8-5-1333/)
@@ -23,7 +24,6 @@
 - [晴天，在离开海口时出现](https://www.imcry.vip/post/2026-7-24-1739/)
 - [出发，临高见](https://www.imcry.vip/post/2026-7-19-2149/)
 - [外婆的近况](https://www.imcry.vip/post/2026-7-10-1859/)
-- [写在“美莎克”之前](https://www.imcry.vip/post/2026-7-3-1627/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
