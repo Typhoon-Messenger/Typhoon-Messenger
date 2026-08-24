@@ -14,6 +14,7 @@
 ## 📝 最新博客文章
 
 <!-- BLOG-POST-LIST:START -->
+- [BSide:Olivia Lin把资源释放到了C盘](https://www.imcry.vip/post/2026-8-24-1046/)
 - [被不知名的热带低压袭击了](https://www.imcry.vip/post/2026-8-21-804/)
 - [Twikoo从EdgeOne获取真实IP](https://www.imcry.vip/post/2026-8-20-635/)
 - [与“礼让”我的司机深情对视](https://www.imcry.vip/post/2026-8-13-2120/)
@@ -23,7 +24,6 @@
 - [大叔的讨年庚和表妹的升学宴](https://www.imcry.vip/post/2026-8-2-1452/)
 - [用EO-Pages实现域名@记录跳转](https://www.imcry.vip/post/2026-7-27-2138/)
 - [晴天，在离开海口时出现](https://www.imcry.vip/post/2026-7-24-1739/)
-- [出发，临高见](https://www.imcry.vip/post/2026-7-19-2149/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
