@@ -14,6 +14,7 @@
 ## 📝 最新博客文章
 
 <!-- BLOG-POST-LIST:START -->
+- [农历七月十四的生日歌](https://www.imcry.vip/post/2026-8-26-2351/)
 - [BSide:Olivia Lin把资源释放到了C盘](https://www.imcry.vip/post/2026-8-24-1046/)
 - [被不知名的热带低压袭击了](https://www.imcry.vip/post/2026-8-21-804/)
 - [Twikoo从EdgeOne获取真实IP](https://www.imcry.vip/post/2026-8-20-635/)
@@ -23,7 +24,6 @@
 - [Apifox流氓式的更新](https://www.imcry.vip/post/2026-8-3-1458/)
 - [大叔的讨年庚和表妹的升学宴](https://www.imcry.vip/post/2026-8-2-1452/)
 - [用EO-Pages实现域名@记录跳转](https://www.imcry.vip/post/2026-7-27-2138/)
-- [晴天，在离开海口时出现](https://www.imcry.vip/post/2026-7-24-1739/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
