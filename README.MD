@@ -14,6 +14,7 @@
 ## 📝 最新博客文章
 
 <!-- BLOG-POST-LIST:START -->
+- [我差点被留在了那一天](https://www.imcry.vip/post/2026-8-27-2005/)
 - [十年前我删除了小学发的QQ空间](https://www.imcry.vip/post/2026-8-27-1411/)
 - [农历七月十四的生日歌](https://www.imcry.vip/post/2026-8-26-2351/)
 - [BSide:Olivia Lin把资源释放到了C盘](https://www.imcry.vip/post/2026-8-24-1046/)
@@ -23,7 +24,6 @@
 - [回忆：天河机场坐10块的黑车](https://www.imcry.vip/post/2026-8-6-1155/)
 - [与认识六年的黄哥聚餐](https://www.imcry.vip/post/2026-8-5-1333/)
 - [Apifox流氓式的更新](https://www.imcry.vip/post/2026-8-3-1458/)
-- [大叔的讨年庚和表妹的升学宴](https://www.imcry.vip/post/2026-8-2-1452/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
