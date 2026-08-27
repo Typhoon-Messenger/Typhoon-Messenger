@@ -14,6 +14,7 @@
 ## 📝 最新博客文章
 
 <!-- BLOG-POST-LIST:START -->
+- [十年前我删除了小学发的QQ空间](https://www.imcry.vip/post/2026-8-27-1411/)
 - [农历七月十四的生日歌](https://www.imcry.vip/post/2026-8-26-2351/)
 - [BSide:Olivia Lin把资源释放到了C盘](https://www.imcry.vip/post/2026-8-24-1046/)
 - [被不知名的热带低压袭击了](https://www.imcry.vip/post/2026-8-21-804/)
@@ -23,7 +24,6 @@
 - [与认识六年的黄哥聚餐](https://www.imcry.vip/post/2026-8-5-1333/)
 - [Apifox流氓式的更新](https://www.imcry.vip/post/2026-8-3-1458/)
 - [大叔的讨年庚和表妹的升学宴](https://www.imcry.vip/post/2026-8-2-1452/)
-- [用EO-Pages实现域名@记录跳转](https://www.imcry.vip/post/2026-7-27-2138/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
