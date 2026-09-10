@@ -14,6 +14,7 @@
 ## 📝 最新博客文章
 
 <!-- BLOG-POST-LIST:START -->
+- [用闲鱼续费了我的域名](https://www.imcry.vip/post/2026-9-10-2338/)
 - [我差点被留在了那一天](https://www.imcry.vip/post/2026-8-27-2005/)
 - [十年前我删除了小学发的QQ空间](https://www.imcry.vip/post/2026-8-27-1411/)
 - [农历七月十四的生日歌](https://www.imcry.vip/post/2026-8-26-2351/)
@@ -23,7 +24,6 @@
 - [与“礼让”我的司机深情对视](https://www.imcry.vip/post/2026-8-13-2120/)
 - [回忆：天河机场坐10块的黑车](https://www.imcry.vip/post/2026-8-6-1155/)
 - [与认识六年的黄哥聚餐](https://www.imcry.vip/post/2026-8-5-1333/)
-- [Apifox流氓式的更新](https://www.imcry.vip/post/2026-8-3-1458/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
