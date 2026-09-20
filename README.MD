@@ -14,6 +14,7 @@
 ## 📝 最新博客文章
 
 <!-- BLOG-POST-LIST:START -->
+- [被一百人集火两次仍存活](https://www.imcry.vip/post/2026-9-20-2136/)
 - [记一次闪购免单](https://www.imcry.vip/post/2026-9-18-1557/)
 - [老Z，一个被怪人包围的家伙](https://www.imcry.vip/post/2026-9-13-1941/)
 - [用闲鱼续费了我的域名](https://www.imcry.vip/post/2026-9-10-2338/)
@@ -23,7 +24,6 @@
 - [BSide:Olivia Lin把资源释放到了C盘](https://www.imcry.vip/post/2026-8-24-1046/)
 - [被不知名的热带低压袭击了](https://www.imcry.vip/post/2026-8-21-804/)
 - [Twikoo从EdgeOne获取真实IP](https://www.imcry.vip/post/2026-8-20-635/)
-- [与“礼让”我的司机深情对视](https://www.imcry.vip/post/2026-8-13-2120/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
