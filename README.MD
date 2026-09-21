@@ -14,6 +14,7 @@
 ## 📝 最新博客文章
 
 <!-- BLOG-POST-LIST:START -->
+- [EdgeOne加速Cloudflare-R2对象存储](https://www.imcry.vip/post/2026-9-21-641/)
 - [被一百人集火两次仍存活](https://www.imcry.vip/post/2026-9-20-2136/)
 - [记一次闪购免单](https://www.imcry.vip/post/2026-9-18-1557/)
 - [老Z，一个被怪人包围的家伙](https://www.imcry.vip/post/2026-9-13-1941/)
@@ -23,7 +24,6 @@
 - [农历七月十四的生日歌](https://www.imcry.vip/post/2026-8-26-2351/)
 - [BSide:Olivia Lin把资源释放到了C盘](https://www.imcry.vip/post/2026-8-24-1046/)
 - [被不知名的热带低压袭击了](https://www.imcry.vip/post/2026-8-21-804/)
-- [Twikoo从EdgeOne获取真实IP](https://www.imcry.vip/post/2026-8-20-635/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
