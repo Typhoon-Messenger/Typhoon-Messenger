@@ -14,6 +14,7 @@
 ## 📝 最新博客文章
 
 <!-- BLOG-POST-LIST:START -->
+- [EVE:欧贝的超旗战](https://www.imcry.vip/post/2026-10-10-2106/)
 - [欢迎，老Z！再见，老Z！](https://www.imcry.vip/post/2026-10-5-1432/)
 - [二〇二六年九月记](https://www.imcry.vip/post/2026-9-30-822/)
 - [赶在月轮升起前](https://www.imcry.vip/post/2026-9-25-2210/)
@@ -23,7 +24,6 @@
 - [被一百人集火两次仍存活](https://www.imcry.vip/post/2026-9-20-2136/)
 - [记一次闪购免单](https://www.imcry.vip/post/2026-9-18-1557/)
 - [老Z，一个被怪人包围的家伙](https://www.imcry.vip/post/2026-9-13-1941/)
-- [用闲鱼续费了我的域名](https://www.imcry.vip/post/2026-9-10-2338/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
