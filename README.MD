@@ -14,6 +14,7 @@
 ## 📝 最新博客文章
 
 <!-- BLOG-POST-LIST:START -->
+- [梦见自己被核弹炸了](https://www.imcry.vip/post/2026-10-22-425/)
 - [感谢@老何的反馈，我更换了Twikoo的镜像源](https://www.imcry.vip/post/2026-10-21-1807/)
 - [早上九点在驾校迷失方向](https://www.imcry.vip/post/2026-10-20-1603/)
 - [断断续续忙活一天，给博客换了面貌](https://www.imcry.vip/post/2026-10-20-1353/)
@@ -23,7 +24,6 @@
 - [英菲克-IN10R鼠标的使用体验](https://www.imcry.vip/post/2026-10-12-447/)
 - [EVE:欧贝的超旗战](https://www.imcry.vip/post/2026-10-10-2106/)
 - [欢迎，老Z！再见，老Z！](https://www.imcry.vip/post/2026-10-5-1432/)
-- [二〇二六年九月记](https://www.imcry.vip/post/2026-9-30-822/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
