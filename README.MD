@@ -14,6 +14,7 @@
 ## 📝 最新博客文章
 
 <!-- BLOG-POST-LIST:START -->
+- [同心路的文昌鸡](https://www.imcry.vip/post/2026-10-27-948/)
 - [驾考趣事：服从安排！](https://www.imcry.vip/post/2026-10-26-2344/)
 - [蜻蜓A9-Plus鼠标的使用体验](https://www.imcry.vip/post/2026-10-25-1713/)
 - [梦见自己被核弹炸了](https://www.imcry.vip/post/2026-10-22-425/)
@@ -23,7 +24,6 @@
 - [报名三轮车的驾驶培训](https://www.imcry.vip/post/2026-10-18-631/)
 - [装死的蟑螂](https://www.imcry.vip/post/2026-10-17-306/)
 - [为套上EdgeOne的R2对象存储设置访问规则](https://www.imcry.vip/post/2026-10-12-1726/)
-- [英菲克-IN10R鼠标的使用体验](https://www.imcry.vip/post/2026-10-12-447/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
