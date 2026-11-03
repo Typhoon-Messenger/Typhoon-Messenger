@@ -14,6 +14,7 @@
 ## 📝 最新博客文章
 
 <!-- BLOG-POST-LIST:START -->
+- [“AI嘉豪”的梗引发了一些思考](https://www.imcry.vip/post/2026-11-3-135/)
 - [还是得从右边下车](https://www.imcry.vip/post/2026-10-31-2254/)
 - [办，改，销](https://www.imcry.vip/post/2026-10-30-1335/)
 - [同心路的文昌鸡](https://www.imcry.vip/post/2026-10-27-948/)
@@ -23,7 +24,6 @@
 - [感谢@老何的反馈，我更换了Twikoo的镜像源](https://www.imcry.vip/post/2026-10-21-1807/)
 - [早上九点在驾校迷失方向](https://www.imcry.vip/post/2026-10-20-1603/)
 - [断断续续忙活一天，给博客换了面貌](https://www.imcry.vip/post/2026-10-20-1353/)
-- [报名三轮车的驾驶培训](https://www.imcry.vip/post/2026-10-18-631/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
