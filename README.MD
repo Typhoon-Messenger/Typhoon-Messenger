@@ -14,6 +14,7 @@
 ## 📝 最新博客文章
 
 <!-- BLOG-POST-LIST:START -->
+- [空气炸锅之奥尔良鸡翅](https://www.imcry.vip/post/2026-11-6-240/)
 - [腾讯云EdgeOne-Makers计费调整](https://www.imcry.vip/post/2026-11-5-057/)
 - [终于约上了摩托科目一的考试](https://www.imcry.vip/post/2026-11-4-2207/)
 - [“AI嘉豪”的梗引发了一些思考](https://www.imcry.vip/post/2026-11-3-135/)
@@ -23,7 +24,6 @@
 - [驾考趣事：服从安排！](https://www.imcry.vip/post/2026-10-26-2344/)
 - [蜻蜓A9-Plus鼠标的使用体验](https://www.imcry.vip/post/2026-10-25-1713/)
 - [梦见自己被核弹炸了](https://www.imcry.vip/post/2026-10-22-425/)
-- [感谢@老何的反馈，我更换了Twikoo的镜像源](https://www.imcry.vip/post/2026-10-21-1807/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
