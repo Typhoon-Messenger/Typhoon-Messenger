@@ -14,6 +14,7 @@
 ## 📝 最新博客文章
 
 <!-- BLOG-POST-LIST:START -->
+- [两天的大风让三亚入了秋](https://www.imcry.vip/post/2026-11-11-1553/)
 - [2026年的邻居](https://www.imcry.vip/post/2026-11-8-1006/)
 - [从阿里云企业邮转移到网易企业邮](https://www.imcry.vip/post/2026-11-7-2152/)
 - [空气炸锅之奥尔良鸡翅](https://www.imcry.vip/post/2026-11-6-240/)
@@ -23,7 +24,6 @@
 - [还是得从右边下车](https://www.imcry.vip/post/2026-10-31-2254/)
 - [办，改，销](https://www.imcry.vip/post/2026-10-30-1335/)
 - [同心路的文昌鸡](https://www.imcry.vip/post/2026-10-27-948/)
-- [驾考趣事：服从安排！](https://www.imcry.vip/post/2026-10-26-2344/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
