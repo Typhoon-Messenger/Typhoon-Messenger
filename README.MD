@@ -14,6 +14,7 @@
 ## 📝 最新博客文章
 
 <!-- BLOG-POST-LIST:START -->
+- [加速通过科一和科四，成功预约科二和科三](https://www.imcry.vip/post/2026-11-12-639/)
 - [两天的大风让三亚入了秋](https://www.imcry.vip/post/2026-11-11-1553/)
 - [2026年的邻居](https://www.imcry.vip/post/2026-11-8-1006/)
 - [从阿里云企业邮转移到网易企业邮](https://www.imcry.vip/post/2026-11-7-2152/)
@@ -23,7 +24,6 @@
 - [“AI嘉豪”的梗引发了一些思考](https://www.imcry.vip/post/2026-11-3-135/)
 - [还是得从右边下车](https://www.imcry.vip/post/2026-10-31-2254/)
 - [办，改，销](https://www.imcry.vip/post/2026-10-30-1335/)
-- [同心路的文昌鸡](https://www.imcry.vip/post/2026-10-27-948/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
